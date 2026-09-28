@@ -1,0 +1,13 @@
+{
+  "name": "Mirai Farm",
+  "description": "Advanced crop disease detection and farm assistant powered by AI. Empowering farmers with intelligent insights and treatment recommendations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI Image Analysis",
+    "Real-time Weather",
+    "Interactive Chatbot"
+  ]
+}
